@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16094180633",
+    "project_id": "practica9-8057d",
+    "storage_bucket": "practica9-8057d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16094180633:android:4a15cc3332bde95588c188",
+        "android_client_info": {
+          "package_name": "rayos.alejandro.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbT1d4DBis_pHE_MtQn7Wlk2uWrtmDqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
